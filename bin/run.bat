@@ -1,0 +1,1 @@
+ping_receiver.exe 8.8.8.8

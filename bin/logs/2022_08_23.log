@@ -1,0 +1,15 @@
+2022-08-23 23:19:52.572720, info, 32bytes from 192.168.1.1, icmp_seq=1, ttl=64, time=3 ms
+2022-08-23 23:19:53.574246, info, 32bytes from 192.168.1.1, icmp_seq=2, ttl=64, time=1 ms
+2022-08-23 23:19:54.587170, info, 32bytes from 192.168.1.1, icmp_seq=3, ttl=64, time=2 ms
+2022-08-23 23:19:55.592580, info, 32bytes from 192.168.1.1, icmp_seq=4, ttl=64, time=1 ms
+2022-08-23 23:19:56.607028, info, 32bytes from 192.168.1.1, icmp_seq=5, ttl=64, time=1 ms
+2022-08-23 23:19:57.618962, info, 32bytes from 192.168.1.1, icmp_seq=6, ttl=64, time=1 ms
+2022-08-23 23:19:58.627472, info, 32bytes from 192.168.1.1, icmp_seq=7, ttl=64, time=1 ms
+2022-08-23 23:19:59.637438, info, 32bytes from 192.168.1.1, icmp_seq=8, ttl=64, time=0 ms
+2022-08-23 23:20:00.662875, info, 32bytes from 192.168.1.1, icmp_seq=9, ttl=64, time=16 ms
+2022-08-23 23:20:01.660281, info, 32bytes from 192.168.1.1, icmp_seq=10, ttl=64, time=3 ms
+2022-08-23 23:20:02.671424, info, 32bytes from 192.168.1.1, icmp_seq=11, ttl=64, time=1 ms
+2022-08-23 23:20:03.686796, info, 32bytes from 192.168.1.1, icmp_seq=12, ttl=64, time=2 ms
+2022-08-23 23:20:04.698042, info, 32bytes from 192.168.1.1, icmp_seq=13, ttl=64, time=2 ms
+2022-08-23 23:20:10.711426, error, Request timed out
+2022-08-23 23:20:15.715088, error, Request timed out
